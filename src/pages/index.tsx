@@ -26,6 +26,7 @@ function HomepageHeader() {
           </Link>
         </div>
         <img
+          alt="gimbal"
           style={{ width: "30%", margin: 20 }}
           src={useBaseUrl("/img/gimbal_v0.png")}
         />
