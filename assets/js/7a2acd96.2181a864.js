@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopengimbal=self.webpackChunkopengimbal||[]).push([[3760],{1717:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/opengimbal/blog/tags/docusaurus","allTagsPath":"/opengimbal/blog/tags","count":4,"unlisted":false}')}}]);

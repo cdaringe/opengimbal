@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopengimbal=self.webpackChunkopengimbal||[]).push([[8726],{8153:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/opengimbal/blog/tags/hola","allTagsPath":"/opengimbal/blog/tags","count":1,"unlisted":false}')}}]);
