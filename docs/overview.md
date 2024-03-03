@@ -8,6 +8,8 @@ sidebar_position: 1
 to build a gimbal. More specifically, it is a motion control gimbal, not strictly
 an auto balancing camera gimbal, for which internet searches largely point to.
 
+**Warning: opengimbal is still brand new. This site is very much incomplete, as are some of the systems designs. Help us build it up and complete all content!**
+
 ## Design principles
 
 - Affordable. Offer hobbyist gimbals that should be buildable for a couple hundred USD or less. This presumes you have access to the correct tooling, which is not covered here.
